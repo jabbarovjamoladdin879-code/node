@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Valiyev",
+    "email": "ali@example.com",
+    "password": "$2b$10$DxbXWM1bcSqOBXW9mUQ1oek3QhRLre4KUYXf3fdqtU6zbDoAAPo1a",
+    "role": "admin",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Madina Karimova",
+    "email": "madina@example.com",
+    "password": "$2b$10$rRtjGO.ynEsfVJ0phUe0TegA5ZwuDrGp1lWyvksFf8zMUYZDZtIb6",
+    "role": "user",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

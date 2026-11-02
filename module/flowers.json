@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Atirgul",
+    "color": "red",
+    "price": 15000,
+    "quantity": 100,
+    "in_stock": true,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Lola",
+    "color": "yellow",
+    "price": 10000,
+    "quantity": 60,
+    "in_stock": true,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Boychechak",
+    "color": "white",
+    "price": 8000,
+    "quantity": 0,
+    "in_stock": false,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

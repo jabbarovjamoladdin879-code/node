@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Olma",
+    "color": "red",
+    "price": 12000,
+    "quantity": 80,
+    "country": "Uzbekistan",
+    "in_stock": true,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Anor",
+    "color": "red",
+    "price": 25000,
+    "quantity": 40,
+    "country": "Uzbekistan",
+    "in_stock": true,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Banan",
+    "color": "yellow",
+    "price": 18000,
+    "quantity": 0,
+    "country": "Ecuador",
+    "in_stock": false,
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

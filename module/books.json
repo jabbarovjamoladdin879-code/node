@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "O'tkan kunlar",
+    "author": "Abdulla Qodiriy",
+    "year": 1926,
+    "price": 45000,
+    "pages": 380,
+    "genre": "roman",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Mehrobdan chayon",
+    "author": "Abdulla Qodiriy",
+    "year": 1929,
+    "price": 40000,
+    "pages": 320,
+    "genre": "roman",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Sariq devni minib",
+    "author": "Xudoyberdi To'xtaboyev",
+    "year": 1963,
+    "price": 35000,
+    "pages": 290,
+    "genre": "sarguzasht",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]

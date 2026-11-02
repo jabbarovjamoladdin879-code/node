@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Birinchi post",
+    "body": "Node.js http moduli haqida",
+    "author": "Ali",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Ikkinchi post",
+    "body": "CRUD amallari va JSON fayllar",
+    "author": "Madina",
+    "created_at": "2026-10-31T00:00:00.000Z"
+  }
+]
